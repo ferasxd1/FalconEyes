@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "268099239014",
+    "project_id": "falconeyes-f871a",
+    "storage_bucket": "falconeyes-f871a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268099239014:android:2c71edca2810dd569cc1a7",
+        "android_client_info": {
+          "package_name": "com.example.falconeyes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFmXNjrv7TBlUFYzp8RAVA2ngjWQjCKi4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
